@@ -1,5 +1,5 @@
 [
-  [
+  
     {
       "title": "2ASC IMMOBILIER",
       "fullName": "Monsieur Arnaud COUETTANT",
@@ -160,8 +160,8 @@
       "numero_de_tel": "04 73 55 26 26",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "ABRY IMMOBILIER",
       "fullName": "Monsieur Charles COLAS",
@@ -322,8 +322,8 @@
       "numero_de_tel": "04 91 34 40 38",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "ACTIVE GESTION MICHEL SZEMZO 'A.G.M.S.'",
       "fullName": "Madame Katia CHARVET SZEMZO",
@@ -484,8 +484,8 @@
       "numero_de_tel": "",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AFEDIM GESTION",
       "fullName": "Monsieur Germain BRENCKE",
@@ -646,8 +646,8 @@
       "numero_de_tel": "02 34 40 09 99",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AGENCE DU KREISKER",
       "fullName": "Monsieur Mathieu BARRAINE",
@@ -808,8 +808,8 @@
       "numero_de_tel": "06 28 23 23 72",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AGENCE PERIER GIRAUD",
       "fullName": "Monsieur Yvan BERT-AVON",
@@ -970,8 +970,8 @@
       "numero_de_tel": "02 51 60 21 21",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AJP ANJOU VENDEE",
       "fullName": "Monsieur Jean-Philippe HAMON",
@@ -1132,8 +1132,8 @@
       "numero_de_tel": "05 56 98 78 89",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AJP IMMOBILIER 33",
       "fullName": "Monsieur Jean-Philippe HAMON",
@@ -1294,8 +1294,8 @@
       "numero_de_tel": "02 30 25 30 00",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AJP IMMOBILIER 85",
       "fullName": "Monsieur Jean-Philippe HAMON",
@@ -1456,8 +1456,8 @@
       "numero_de_tel": "02 40 11 22 22",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AJP LITTORAL",
       "fullName": "Monsieur Jean-Philippe HAMON",
@@ -1618,8 +1618,8 @@
       "numero_de_tel": "01 49 65 33 33",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "ALIAS IMMOBILIER",
       "fullName": "Madame Sylvie ALIAS",
@@ -1780,8 +1780,8 @@
       "numero_de_tel": "04 58 17 30 30",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "ANNOEULLIMMO",
       "fullName": "Monsieur Nicolas DUPONT",
@@ -1942,8 +1942,8 @@
       "numero_de_tel": "04 91 85 33 49",
       "email": "direction@arobase-immobilier.com"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AROBASE IMMOBILIER",
       "fullName": "Monsieur Jean-Claude SUTERA",
@@ -2104,8 +2104,8 @@
       "numero_de_tel": "04 74 11 22 05",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "AX'IMM (SUCCURSALE)",
       "fullName": "Monsieur Alain MOREL",
@@ -2266,8 +2266,8 @@
       "numero_de_tel": "",
       "email": "julien.couste@gmail.com, contact@bellissimmobilier.com"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "BERBUDEAU IMMOBILIER",
       "fullName": "Monsieur Pascal BERBUDEAU",
@@ -2428,8 +2428,8 @@
       "numero_de_tel": "01 40 44 52 45",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "BOGAERT GESTION",
       "fullName": "Monsieur Loïc BOGAERT",
@@ -2590,8 +2590,8 @@
       "numero_de_tel": "02 47 71 77 17",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "BVGL ASSOCIES",
       "fullName": "Monsieur Stéphane SOULLARD",
@@ -2752,8 +2752,8 @@
       "numero_de_tel": "",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CABINET CADOT BEAUPLET",
       "fullName": "Monsieur Fabrice BOROCCO",
@@ -2914,8 +2914,8 @@
       "numero_de_tel": "04 11 83 14 90",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CABINET DRAGO",
       "fullName": "Monsieur Louis DRAGO",
@@ -3076,8 +3076,8 @@
       "numero_de_tel": "02 38 62 81 04",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CABINET IMMOBILIER TURRIPINOIS",
       "fullName": "Madame Isabelle CERVI",
@@ -3238,8 +3238,8 @@
       "numero_de_tel": "01 48 73 11 11",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CABINET LANDRIEVE",
       "fullName": "Madame Corine LANDRIEVE",
@@ -3400,8 +3400,8 @@
       "numero_de_tel": "01 84 17 29 79",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CABINET MASSON ET CIE",
       "fullName": "Monsieur Pierre VERNIZEAU",
@@ -3562,8 +3562,8 @@
       "numero_de_tel": "01 60 20 36 92",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CABINET POULET",
       "fullName": "Madame Véronique POULET",
@@ -3724,8 +3724,8 @@
       "numero_de_tel": "05 65 34 35 27",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CAPITAL CONSEIL IMMOBILIER",
       "fullName": "Monsieur Julien CALVET",
@@ -3886,8 +3886,8 @@
       "numero_de_tel": "01 60 89 20 20",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CEPROGIM COLIN SAS",
       "fullName": "Madame Virginie COLIN",
@@ -4048,8 +4048,8 @@
       "numero_de_tel": "03 89 54 48 05",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CHRISTELLE CLAUSS IMMOBILIER",
       "fullName": "Monsieur Mathieu CLAUSS",
@@ -4210,8 +4210,8 @@
       "numero_de_tel": "05 57 14 30 70",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CITYA BELVIA CHALON SUR SAONE",
       "fullName": "Monsieur Philippe DE COCK",
@@ -4372,8 +4372,8 @@
       "numero_de_tel": "04 98 00 69 88",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CITYA EUROPE IMMO CONSEIL",
       "fullName": "Monsieur Gilles DE POORTER",
@@ -4534,8 +4534,8 @@
       "numero_de_tel": "02 54 08 20 20",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CITYA IMMOBILIER MEUNIER",
       "fullName": "Madame Patrice MEUNIER",
@@ -4696,8 +4696,8 @@
       "numero_de_tel": "03 26 44 04 04",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CITYA NATIVE CHARLEVILLE MEZIERES",
       "fullName": "Monsieur Jean-François RENARD",
@@ -4858,8 +4858,8 @@
       "numero_de_tel": "04 97 21 29 00",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "CITYA SAINTE VICTOIRE",
       "fullName": "Monsieur Pierre BERIDOT",
@@ -5020,8 +5020,8 @@
       "numero_de_tel": "07 77 34 41 88",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "COGERIM",
       "fullName": "Monsieur Nicolas FRANCOIS",
@@ -5182,8 +5182,8 @@
       "numero_de_tel": "01 42 67 53 53",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "COURDIL IMMO",
       "fullName": "Madame Pascale COURDIL",
@@ -5344,8 +5344,8 @@
       "numero_de_tel": "02 99 31 01 00",
       "email": "CRIRErichard.immo@orange.fr"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "DAUCHEZ COPROPRIETES",
       "fullName": "Monsieur Henri-Pierre CAMIZON",
@@ -5506,8 +5506,8 @@
       "numero_de_tel": "06 47 58 91 49",
       "email": "contact@dknconseil.fr"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "DL REAL ESTATE",
       "fullName": "Monsieur Josselin LEZOT",
@@ -5668,8 +5668,8 @@
       "numero_de_tel": "05 57 48 02 02",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "EFFIMA",
       "fullName": "Monsieur Julien MAFFEI",
@@ -5830,8 +5830,8 @@
       "numero_de_tel": "01 46 06 44 40",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "ETUDE GUEGAN IMMOBILIER",
       "fullName": "Madame Anne-Sophie NOA",
@@ -5992,8 +5992,8 @@
       "numero_de_tel": "01 48 66 33 65",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "EVASION PRESTIGE",
       "fullName": "Monsieur David PRETOT",
@@ -6154,8 +6154,8 @@
       "numero_de_tel": "02 40 48 93 39",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "FONCIERE LELIEVRE",
       "fullName": "Monsieur Jocelyn PLANTARD",
@@ -6316,8 +6316,8 @@
       "numero_de_tel": "05 46 43 01 85",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "FRANCE DEMEURE GROUP",
       "fullName": "Madame Nadia ACHACHE",
@@ -6478,8 +6478,8 @@
       "numero_de_tel": "01 42 66 2164",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "GESBERT IMMOBILIER",
       "fullName": "Monsieur Kevin GESBERT",
@@ -6640,8 +6640,8 @@
       "numero_de_tel": "",
       "email": "dpo@gtf.fr"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "GESTION ET TRANSACTIONS DE FRANCE",
       "fullName": "Monsieur Michel PELEGE",
@@ -6802,8 +6802,8 @@
       "numero_de_tel": "06 16 82 60 21",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "GLF LOICK FOUCHET",
       "fullName": "Monsieur Logan FOUCHET",
@@ -6964,8 +6964,8 @@
       "numero_de_tel": "02 99 81 06 64",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "HABITER35",
       "fullName": "Monsieur Jean-Philippe HAMON",
@@ -7126,8 +7126,8 @@
       "numero_de_tel": "01 64 43 49 50",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "ICA GESTION IMMOBILIER L&G",
       "fullName": "Madame Adeline LORSON",
@@ -7288,8 +7288,8 @@
       "numero_de_tel": "",
       "email": "communication-nordpasdecalais@immmodefrance.com"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "IMMO DE FRANCE LYON OUEST",
       "fullName": "Monsieur Christian COSTE",
@@ -7450,8 +7450,8 @@
       "numero_de_tel": "01 39 68 72 27",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "IMMO SERVICES VAR",
       "fullName": "Monsieur Christophe AUBOIS",
@@ -7612,8 +7612,8 @@
       "numero_de_tel": "04 93 93 49 34",
       "email": "euroagence@orpi-mandelieu.com, abpartners@orpi-mandelieu.com, agencedugrandduc@orpi-mandelieu.com, abprestige@orpi-mandelieu.com"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "IMMOBILIER NOUVEAU SERVICE (INS) - EURO AGENCE IMMOBILIER",
       "fullName": "Monsieur Anthony BARBIER",
@@ -7774,8 +7774,8 @@
       "numero_de_tel": "04 91 37 38 39",
       "email": "julia@immobiliere-pujol.fr, gaelle@immobiliere-pujol.fr, carolinepujol@immobiliere-pujol.fr"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "IMMOBILIERE ROLLINE",
       "fullName": "Madame Maryline GARCON",
@@ -7936,8 +7936,8 @@
       "numero_de_tel": "",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "IMMOREVEL",
       "fullName": "Monsieur Etienne DEQUIREZ",
@@ -8098,8 +8098,8 @@
       "numero_de_tel": "04 91 24 34 90",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "JEAN MICHEL LASCAUX IMMO",
       "fullName": "Monsieur Charles COLAS",
@@ -8260,8 +8260,8 @@
       "numero_de_tel": "04 75 32 48 84",
       "email": "contact@lagenceannonay.com, contact@lagenceannonay.com"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "L'AGENCE @ PART",
       "fullName": "Madame Catherine NOIREAU",
@@ -8422,8 +8422,8 @@
       "numero_de_tel": "03 22 60 42 26",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "LANCE & LE GOER",
       "fullName": "Monsieur Nicolas LANCE",
@@ -8584,8 +8584,8 @@
       "numero_de_tel": "01 53 83 18 70",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "LM TRANSMISSION",
       "fullName": "Monsieur Jean-Luc DEZELLUS",
@@ -8746,8 +8746,8 @@
       "numero_de_tel": "04 42 45 03 10",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "LUXIMMO",
       "fullName": "Madame Marie Dea LEANDRI",
@@ -8908,8 +8908,8 @@
       "numero_de_tel": "01 40 76 32 32",
       "email": "accueil@mazet-sa.com, sinistres@mazet-sa.com, accueil@mazet-sa.com"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "MD-M - AGENCE PIERRE LOTI",
       "fullName": "Madame Marilyse MALLEFILLE",
@@ -9070,8 +9070,8 @@
       "numero_de_tel": "04 66 39 05 14",
       "email": "mistral.immobilier@free.fr, mistralbagnols@free.fr, mistral.immobilier@free.fr, mistralbagnols@free.fr"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "MITANCHET SAS",
       "fullName": "Monsieur Thibault MITANCHET",
@@ -9232,8 +9232,8 @@
       "numero_de_tel": "01 43 57 36 98",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "NOVIMMO",
       "fullName": "Monsieur Cyril GILLARD",
@@ -9394,8 +9394,8 @@
       "numero_de_tel": "01 43 70 81 73",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "OTI SARL",
       "fullName": "Monsieur Henri ALTEIRAC",
@@ -9556,8 +9556,8 @@
       "numero_de_tel": "01 49 70 93 30",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "PG IMMO SASU",
       "fullName": "Monsieur Bertrand HARRY",
@@ -9718,8 +9718,8 @@
       "numero_de_tel": "01 77 35 19 07",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "RABAU DARCHAND",
       "fullName": "Monsieur Philippe RABAU",
@@ -9880,8 +9880,8 @@
       "numero_de_tel": "06 32 81 08 67",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "REGIE DE MONTFALCON",
       "fullName": "Monsieur Loïc DE MONTFALCON DE FLAXIEU",
@@ -10042,8 +10042,8 @@
       "numero_de_tel": "",
       "email": "contact@regieouestlyonnais.net"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "RÉGIE OUEST LYONNAIS",
       "fullName": "Madame Régine ROYOLE DEGIEUX",
@@ -10204,8 +10204,8 @@
       "numero_de_tel": "04 67 43 11 01",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "RIETSCH IMMOBILIER",
       "fullName": "Monsieur Christian RIETSCH",
@@ -10366,8 +10366,8 @@
       "numero_de_tel": "06 30 46 84 31",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "S.A.B.I.",
       "fullName": "Monsieur Léopold HOREN",
@@ -10528,8 +10528,8 @@
       "numero_de_tel": "03 22 28 04 25",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "SARL BPN",
       "fullName": "Monsieur Philippe BEREAUD",
@@ -10690,8 +10690,8 @@
       "numero_de_tel": "04 93 26 08 95",
       "email": "NA"
     }
-  ],
-  [
+,
+  
     {
       "title": "SAS",
       "fullName": "Madame Elen RINGEISEN",
@@ -10852,8 +10852,8 @@
       "numero_de_tel": "03 20 14 84 74",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "SERGIC AMIENS",
       "fullName": "Madame Mélanie OLSZYNA CAMARA",
@@ -11014,8 +11014,8 @@
       "numero_de_tel": "01 56 59 75 72",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "SERGIC PARIS XV",
       "fullName": "Madame Catherine HISLEUR",
@@ -11176,8 +11176,8 @@
       "numero_de_tel": "03 20 30 20 10",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "SKYLINE",
       "fullName": "Monsieur Jérôme FABRE",
@@ -11338,8 +11338,8 @@
       "numero_de_tel": "03 87 66 67 24",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "SOGELEM",
       "fullName": "Monsieur Stéphane CHARVIER",
@@ -11500,8 +11500,8 @@
       "numero_de_tel": "05 55 34 52 51",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "SQUARE HABITAT CHAMPAGNE BOURGOGNE",
       "fullName": "Madame Magalie MICHON",
@@ -11662,8 +11662,8 @@
       "numero_de_tel": "03 59 08 32 31",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "T.I.G. SARL",
       "fullName": "Monsieur Emmanuel GUEST",
@@ -11824,8 +11824,8 @@
       "numero_de_tel": "01 46 02 57 27",
       "email": "contact@tiffencoge.fr"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "TOURDIAT GESTION",
       "fullName": "Monsieur Ludovic TOURDIAT",
@@ -11986,8 +11986,8 @@
       "numero_de_tel": "01 58 05 36 12",
       "email": "NA"
     }
-  ],
-  [
+,
+  
     {
       "title": "VARAGNAT GESTION IMMOBILIERE",
       "fullName": "Madame Justine CARMELLINO",
@@ -12148,8 +12148,8 @@
       "numero_de_tel": "04 50 12 39 75",
       "email": "NA"
     }
-  ],
-  [
+  ,
+  
     {
       "title": "Y.S. IMMOBILIER",
       "fullName": "Monsieur Yann SAYARET",
@@ -12206,5 +12206,5 @@
       "numero_de_tel": "02 98 80 37 48",
       "email": "Y.HERNOTIMMO@WANADOO.FR"
     }
-  ]
+  
 ]
